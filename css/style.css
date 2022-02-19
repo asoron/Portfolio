@@ -1191,11 +1191,11 @@ img {
 	}
 
 	.swiper-button-prev {
-		left: -3.5rem;
+		left: -0.5rem;
 	}
 
 	.swiper-button-next {
-		right: -3.5rem;
+		right: -0.5rem;
 	}
 
 	.swiper-horizontal > .swiper-pagination-bullets {
